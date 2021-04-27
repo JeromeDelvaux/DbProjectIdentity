@@ -1,0 +1,16 @@
+﻿CREATE TABLE [dbo].[Utilisateurs]
+(
+	[Id] INT IDENTITY NOT NULL,
+	[LastName] NVARCHAR(50) NOT NULL,
+	[Firstname] NVARCHAR(50) NOT NULL,
+	[Email] NVARCHAR(384) NOT NULL,
+	[Passwd] NVARCHAR(max) NOT NULL,
+	[IsValid] BIT NULL DEFAULT 1,
+	[IsAdmin] BIT NULL DEFAULT 0,
+	[Genre] CHAR(1) NOT NULL,
+	[CreationDate] DATETIME2(7) NULL DEFAULT SYSDATETIME(),
+	[TwoFactorEnabled] BIT NOT NULL DEFAULT 0
+
+    CONSTRAINT [PK_Utilisateurs] PRIMARY KEY ([Id])
+	CONSTRAINT [UK_UniqueEmail] UNIQUE ([Email])
+)

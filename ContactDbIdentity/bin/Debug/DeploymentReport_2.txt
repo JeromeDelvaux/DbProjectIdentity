@@ -1,0 +1,19 @@
+﻿** Met en surbrillance
+     Tables à reconstruire
+       Aucun
+     Index ordonnés en clusters à supprimer
+       Aucun
+     Index ordonnés en clusters à créer.
+       Aucun
+     Problèmes de données possibles
+       Aucun
+
+** Actions de l'utilisateur
+     Modifier
+       [dbo].[Role] (Table)
+       [dbo].[identity_InsertRole] (Procédure)
+     Créer
+       [dbo].[identity_FindByEmail] (Procédure)
+       [dbo].[identity_FindRoleByName] (Procédure)
+
+** Actions de support

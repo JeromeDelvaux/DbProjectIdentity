@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Technofutur\ASP.NET MVC\AllProjects\ContactManagerWithIdentity\ContactDbIdentity\bin\Debug\ContactDbIdentity.dacpac
+C:\Users\User\Documents\Technofutur\ASP.NET MVC\AllProjects\ContactManagerWithIdentity\ContactDbIdentity\bin\Debug\ContactDbIdentity.dll
+C:\Users\User\Documents\Technofutur\ASP.NET MVC\AllProjects\ContactManagerWithIdentity\ContactDbIdentity\bin\Debug\ContactDbIdentity.pdb
+C:\Users\User\Documents\Technofutur\ASP.NET MVC\AllProjects\ContactManagerWithIdentity\ContactDbIdentity\obj\Debug\ContactDbIdentity.sqlprojAssemblyReference.cache
+C:\Users\User\Documents\Technofutur\ASP.NET MVC\AllProjects\ContactManagerWithIdentity\ContactDbIdentity\obj\Debug\ContactDbIdentity.dll
+C:\Users\User\Documents\Technofutur\ASP.NET MVC\AllProjects\ContactManagerWithIdentity\ContactDbIdentity\obj\Debug\ContactDbIdentity.pdb

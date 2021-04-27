@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "ContactDbIdentity", "ContactDbIdentity\ContactDbIdentity.sqlproj", "{BF14BC12-2329-4473-861A-E30B001AE97B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContactManagerWithIdentity.Model.Global", "ContactManagerWithIdentity.Model.Global\ContactManagerWithIdentity.Model.Global.csproj", "{D2624533-56DC-4401-B19C-904FAC3EC19B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContactManagerWithIdentity.Model.Repository", "ContactManagerWithIdentity.Model.Repository\ContactManagerWithIdentity.Model.Repository.csproj", "{77A3E037-DDF4-4BE6-BE50-8A417E36C9A3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConnectionTools", "ConnectionTools\ConnectionTools.csproj", "{AA3B7109-543A-4621-9E4B-DA45DF9447AF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContactManagerWithIdentity.Identity", "ContactManagerWithIdentity.Identity\ContactManagerWithIdentity.Identity.csproj", "{90691C14-7B63-4B85-99A6-D524D4CAB487}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SiteWeb", "SiteWeb\SiteWeb.csproj", "{AA7978E5-41B4-4781-8E3E-BF967D9BB6BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF14BC12-2329-4473-861A-E30B001AE97B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF14BC12-2329-4473-861A-E30B001AE97B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF14BC12-2329-4473-861A-E30B001AE97B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{BF14BC12-2329-4473-861A-E30B001AE97B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF14BC12-2329-4473-861A-E30B001AE97B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF14BC12-2329-4473-861A-E30B001AE97B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{D2624533-56DC-4401-B19C-904FAC3EC19B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2624533-56DC-4401-B19C-904FAC3EC19B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2624533-56DC-4401-B19C-904FAC3EC19B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2624533-56DC-4401-B19C-904FAC3EC19B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77A3E037-DDF4-4BE6-BE50-8A417E36C9A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77A3E037-DDF4-4BE6-BE50-8A417E36C9A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77A3E037-DDF4-4BE6-BE50-8A417E36C9A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77A3E037-DDF4-4BE6-BE50-8A417E36C9A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA3B7109-543A-4621-9E4B-DA45DF9447AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA3B7109-543A-4621-9E4B-DA45DF9447AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA3B7109-543A-4621-9E4B-DA45DF9447AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA3B7109-543A-4621-9E4B-DA45DF9447AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90691C14-7B63-4B85-99A6-D524D4CAB487}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90691C14-7B63-4B85-99A6-D524D4CAB487}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90691C14-7B63-4B85-99A6-D524D4CAB487}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90691C14-7B63-4B85-99A6-D524D4CAB487}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA7978E5-41B4-4781-8E3E-BF967D9BB6BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA7978E5-41B4-4781-8E3E-BF967D9BB6BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA7978E5-41B4-4781-8E3E-BF967D9BB6BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA7978E5-41B4-4781-8E3E-BF967D9BB6BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F723AB50-F21F-48A0-992A-EDD6A4A6B540}
+	EndGlobalSection
+EndGlobal

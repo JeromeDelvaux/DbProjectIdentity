@@ -1,0 +1,9 @@
+C:\Users\User\Documents\Technofutur\ASP.NET MVC\AllProjects\ContactManagerWithIdentity\ContactManagerWithIdentity.Model.Repository\bin\Debug\netcoreapp3.1\ContactManagerWithIdentity.Model.Repository.deps.json
+C:\Users\User\Documents\Technofutur\ASP.NET MVC\AllProjects\ContactManagerWithIdentity\ContactManagerWithIdentity.Model.Repository\bin\Debug\netcoreapp3.1\ContactManagerWithIdentity.Model.Repository.dll
+C:\Users\User\Documents\Technofutur\ASP.NET MVC\AllProjects\ContactManagerWithIdentity\ContactManagerWithIdentity.Model.Repository\bin\Debug\netcoreapp3.1\ContactManagerWithIdentity.Model.Repository.pdb
+C:\Users\User\Documents\Technofutur\ASP.NET MVC\AllProjects\ContactManagerWithIdentity\ContactManagerWithIdentity.Model.Repository\obj\Debug\netcoreapp3.1\ContactManagerWithIdentity.Model.Repository.csprojAssemblyReference.cache
+C:\Users\User\Documents\Technofutur\ASP.NET MVC\AllProjects\ContactManagerWithIdentity\ContactManagerWithIdentity.Model.Repository\obj\Debug\netcoreapp3.1\ContactManagerWithIdentity.Model.Repository.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Technofutur\ASP.NET MVC\AllProjects\ContactManagerWithIdentity\ContactManagerWithIdentity.Model.Repository\obj\Debug\netcoreapp3.1\ContactManagerWithIdentity.Model.Repository.AssemblyInfo.cs
+C:\Users\User\Documents\Technofutur\ASP.NET MVC\AllProjects\ContactManagerWithIdentity\ContactManagerWithIdentity.Model.Repository\obj\Debug\netcoreapp3.1\ContactManagerWithIdentity.Model.Repository.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Technofutur\ASP.NET MVC\AllProjects\ContactManagerWithIdentity\ContactManagerWithIdentity.Model.Repository\obj\Debug\netcoreapp3.1\ContactManagerWithIdentity.Model.Repository.dll
+C:\Users\User\Documents\Technofutur\ASP.NET MVC\AllProjects\ContactManagerWithIdentity\ContactManagerWithIdentity.Model.Repository\obj\Debug\netcoreapp3.1\ContactManagerWithIdentity.Model.Repository.pdb

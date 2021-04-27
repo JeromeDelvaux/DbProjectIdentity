@@ -1,0 +1,31 @@
+﻿** Met en surbrillance
+     Tables à reconstruire
+       Aucun
+     Index ordonnés en clusters à supprimer
+       Aucun
+     Index ordonnés en clusters à créer.
+       Aucun
+     Problèmes de données possibles
+       Aucun
+
+** Actions de l'utilisateur
+     Créer
+       [dbo].[ExternalLogin] (Table)
+       [dbo].[MappingRoles] (Table)
+       [dbo].[Role] (Table)
+       [dbo].[Utilisateurs] (Table)
+       Contrainte par défaut: contrainte sans nom sur [dbo].[Utilisateurs] (Contrainte par défaut)
+       Contrainte par défaut: contrainte sans nom sur [dbo].[Utilisateurs] (Contrainte par défaut)
+       Contrainte par défaut: contrainte sans nom sur [dbo].[Utilisateurs] (Contrainte par défaut)
+       Contrainte par défaut: contrainte sans nom sur [dbo].[Utilisateurs] (Contrainte par défaut)
+       [dbo].[FK_MappingRole_Role] (Clé étrangère)
+       [dbo].[FK_MappingRole_Utilisateurs] (Clé étrangère)
+       [dbo].[identity_AddUserToRole] (Procédure)
+       [dbo].[identity_FindByEmail] (Procédure)
+       [dbo].[identity_FindById] (Procédure)
+       [dbo].[identity_FindRoleByName] (Procédure)
+       [dbo].[identity_GetAllUsers] (Procédure)
+       [dbo].[identity_InsertRole] (Procédure)
+       [dbo].[identity_InsertUser] (Procédure)
+
+** Actions de support

@@ -1,0 +1,4 @@
+D:\Dev\TechnofuturTIC\13 Securité dans le framework .NET\03 Windows Identity without EF\ContactManagerIdentity\ContactManagerWithIdentity.Model.Global\bin\Debug\netcoreapp3.1\ConnectionTools.dll
+D:\Dev\TechnofuturTIC\13 Securité dans le framework .NET\03 Windows Identity without EF\ContactManagerIdentity\ContactManagerWithIdentity.Model.Global\obj\Debug\netcoreapp3.1\ContactManagerWithIdentity.Model.Global.csprojAssemblyReference.cache
+D:\Dev\TechnofuturTIC\13 Securité dans le framework .NET\03 Windows Identity without EF\ContactManagerIdentity\ContactManagerWithIdentity.Model.Global\obj\Debug\netcoreapp3.1\ContactManagerWithIdentity.Model.Global.AssemblyInfoInputs.cache
+D:\Dev\TechnofuturTIC\13 Securité dans le framework .NET\03 Windows Identity without EF\ContactManagerIdentity\ContactManagerWithIdentity.Model.Global\obj\Debug\netcoreapp3.1\ContactManagerWithIdentity.Model.Global.AssemblyInfo.cs

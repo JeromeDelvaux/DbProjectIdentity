@@ -1,0 +1,12 @@
+D:\Dev\TechnofuturTIC\13 Securité dans le framework .NET\03 Windows Identity without EF\ContactManagerIdentity\ContactManagerWithIdentity.Identity\bin\Debug\netcoreapp3.1\ConnectionTools.dll
+D:\Dev\TechnofuturTIC\13 Securité dans le framework .NET\03 Windows Identity without EF\ContactManagerIdentity\ContactManagerWithIdentity.Identity\bin\Debug\netcoreapp3.1\ContactManagerWithIdentity.Model.Global.dll
+D:\Dev\TechnofuturTIC\13 Securité dans le framework .NET\03 Windows Identity without EF\ContactManagerIdentity\ContactManagerWithIdentity.Identity\bin\Debug\netcoreapp3.1\ContactManagerWithIdentity.Model.Repository.dll
+D:\Dev\TechnofuturTIC\13 Securité dans le framework .NET\03 Windows Identity without EF\ContactManagerIdentity\ContactManagerWithIdentity.Identity\obj\Debug\netcoreapp3.1\ContactManagerWithIdentity.Identity.csprojAssemblyReference.cache
+D:\Dev\TechnofuturTIC\13 Securité dans le framework .NET\03 Windows Identity without EF\ContactManagerIdentity\ContactManagerWithIdentity.Identity\obj\Debug\netcoreapp3.1\ContactManagerWithIdentity.Identity.AssemblyInfoInputs.cache
+D:\Dev\TechnofuturTIC\13 Securité dans le framework .NET\03 Windows Identity without EF\ContactManagerIdentity\ContactManagerWithIdentity.Identity\obj\Debug\netcoreapp3.1\ContactManagerWithIdentity.Identity.AssemblyInfo.cs
+C:\Users\User\Documents\Technofutur\ASP.NET MVC\AllProjects\ContactManagerWithIdentity\ContactManagerWithIdentity.Identity\bin\Debug\netcoreapp3.1\ConnectionTools.dll
+C:\Users\User\Documents\Technofutur\ASP.NET MVC\AllProjects\ContactManagerWithIdentity\ContactManagerWithIdentity.Identity\bin\Debug\netcoreapp3.1\ContactManagerWithIdentity.Model.Global.dll
+C:\Users\User\Documents\Technofutur\ASP.NET MVC\AllProjects\ContactManagerWithIdentity\ContactManagerWithIdentity.Identity\bin\Debug\netcoreapp3.1\ContactManagerWithIdentity.Model.Repository.dll
+C:\Users\User\Documents\Technofutur\ASP.NET MVC\AllProjects\ContactManagerWithIdentity\ContactManagerWithIdentity.Identity\obj\Debug\netcoreapp3.1\ContactManagerWithIdentity.Identity.csprojAssemblyReference.cache
+C:\Users\User\Documents\Technofutur\ASP.NET MVC\AllProjects\ContactManagerWithIdentity\ContactManagerWithIdentity.Identity\obj\Debug\netcoreapp3.1\ContactManagerWithIdentity.Identity.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Technofutur\ASP.NET MVC\AllProjects\ContactManagerWithIdentity\ContactManagerWithIdentity.Identity\obj\Debug\netcoreapp3.1\ContactManagerWithIdentity.Identity.AssemblyInfo.cs
